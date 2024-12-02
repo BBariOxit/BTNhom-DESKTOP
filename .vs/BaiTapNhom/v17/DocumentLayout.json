@@ -1,0 +1,287 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\phanb\\OneDrive\\M\u00E1y t\u00EDnh\\UnRar\\BaiTapNhom\\BaiTapNhom\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{42A3E439-CA0A-49F5-B3E4-72DC46BE5FE1}|BaiTapNhom.csproj|C:\\Users\\phanb\\OneDrive\\M\u00E1y t\u00EDnh\\UnRar\\BaiTapNhom\\BaiTapNhom\\danhsachmathang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{42A3E439-CA0A-49F5-B3E4-72DC46BE5FE1}|BaiTapNhom.csproj|solutionrelative:danhsachmathang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{42A3E439-CA0A-49F5-B3E4-72DC46BE5FE1}|BaiTapNhom.csproj|C:\\Users\\phanb\\OneDrive\\M\u00E1y t\u00EDnh\\UnRar\\BaiTapNhom\\BaiTapNhom\\danhsachmathang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{42A3E439-CA0A-49F5-B3E4-72DC46BE5FE1}|BaiTapNhom.csproj|solutionrelative:danhsachmathang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{42A3E439-CA0A-49F5-B3E4-72DC46BE5FE1}|BaiTapNhom.csproj|c:\\users\\phanb\\onedrive\\m\u00E1y t\u00EDnh\\unrar\\baitapnhom\\baitapnhom\\nhommathang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{42A3E439-CA0A-49F5-B3E4-72DC46BE5FE1}|BaiTapNhom.csproj|solutionrelative:nhommathang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{42A3E439-CA0A-49F5-B3E4-72DC46BE5FE1}|BaiTapNhom.csproj|C:\\Users\\phanb\\OneDrive\\M\u00E1y t\u00EDnh\\UnRar\\BaiTapNhom\\BaiTapNhom\\nhommathang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{42A3E439-CA0A-49F5-B3E4-72DC46BE5FE1}|BaiTapNhom.csproj|solutionrelative:nhommathang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{42A3E439-CA0A-49F5-B3E4-72DC46BE5FE1}|BaiTapNhom.csproj|C:\\Users\\phanb\\OneDrive\\M\u00E1y t\u00EDnh\\UnRar\\BaiTapNhom\\BaiTapNhom\\quanlykhachhang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{42A3E439-CA0A-49F5-B3E4-72DC46BE5FE1}|BaiTapNhom.csproj|solutionrelative:quanlykhachhang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{42A3E439-CA0A-49F5-B3E4-72DC46BE5FE1}|BaiTapNhom.csproj|C:\\Users\\phanb\\OneDrive\\M\u00E1y t\u00EDnh\\UnRar\\BaiTapNhom\\BaiTapNhom\\quanlykhachhang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{42A3E439-CA0A-49F5-B3E4-72DC46BE5FE1}|BaiTapNhom.csproj|solutionrelative:quanlykhachhang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{42A3E439-CA0A-49F5-B3E4-72DC46BE5FE1}|BaiTapNhom.csproj|C:\\Users\\phanb\\OneDrive\\M\u00E1y t\u00EDnh\\UnRar\\BaiTapNhom\\BaiTapNhom\\formdangnhap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{42A3E439-CA0A-49F5-B3E4-72DC46BE5FE1}|BaiTapNhom.csproj|solutionrelative:formdangnhap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{42A3E439-CA0A-49F5-B3E4-72DC46BE5FE1}|BaiTapNhom.csproj|C:\\Users\\phanb\\OneDrive\\M\u00E1y t\u00EDnh\\UnRar\\BaiTapNhom\\BaiTapNhom\\themmathang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{42A3E439-CA0A-49F5-B3E4-72DC46BE5FE1}|BaiTapNhom.csproj|solutionrelative:themmathang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{42A3E439-CA0A-49F5-B3E4-72DC46BE5FE1}|BaiTapNhom.csproj|C:\\Users\\phanb\\OneDrive\\M\u00E1y t\u00EDnh\\UnRar\\BaiTapNhom\\BaiTapNhom\\themmathang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{42A3E439-CA0A-49F5-B3E4-72DC46BE5FE1}|BaiTapNhom.csproj|solutionrelative:themmathang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{42A3E439-CA0A-49F5-B3E4-72DC46BE5FE1}|BaiTapNhom.csproj|C:\\Users\\phanb\\OneDrive\\M\u00E1y t\u00EDnh\\UnRar\\BaiTapNhom\\BaiTapNhom\\formchuongtrinh.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{42A3E439-CA0A-49F5-B3E4-72DC46BE5FE1}|BaiTapNhom.csproj|solutionrelative:formchuongtrinh.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{42A3E439-CA0A-49F5-B3E4-72DC46BE5FE1}|BaiTapNhom.csproj|C:\\Users\\phanb\\OneDrive\\M\u00E1y t\u00EDnh\\UnRar\\BaiTapNhom\\BaiTapNhom\\hoadon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{42A3E439-CA0A-49F5-B3E4-72DC46BE5FE1}|BaiTapNhom.csproj|solutionrelative:hoadon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{42A3E439-CA0A-49F5-B3E4-72DC46BE5FE1}|BaiTapNhom.csproj|C:\\Users\\phanb\\OneDrive\\M\u00E1y t\u00EDnh\\UnRar\\BaiTapNhom\\BaiTapNhom\\chitiethoadon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{42A3E439-CA0A-49F5-B3E4-72DC46BE5FE1}|BaiTapNhom.csproj|solutionrelative:chitiethoadon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{42A3E439-CA0A-49F5-B3E4-72DC46BE5FE1}|BaiTapNhom.csproj|C:\\Users\\phanb\\OneDrive\\M\u00E1y t\u00EDnh\\UnRar\\BaiTapNhom\\BaiTapNhom\\hoadon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{42A3E439-CA0A-49F5-B3E4-72DC46BE5FE1}|BaiTapNhom.csproj|solutionrelative:hoadon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{42A3E439-CA0A-49F5-B3E4-72DC46BE5FE1}|BaiTapNhom.csproj|C:\\Users\\phanb\\OneDrive\\M\u00E1y t\u00EDnh\\UnRar\\BaiTapNhom\\BaiTapNhom\\formchuongtrinh.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{42A3E439-CA0A-49F5-B3E4-72DC46BE5FE1}|BaiTapNhom.csproj|solutionrelative:formchuongtrinh.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{42A3E439-CA0A-49F5-B3E4-72DC46BE5FE1}|BaiTapNhom.csproj|C:\\Users\\phanb\\OneDrive\\M\u00E1y t\u00EDnh\\UnRar\\BaiTapNhom\\BaiTapNhom\\capnhatthongtinmathang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{42A3E439-CA0A-49F5-B3E4-72DC46BE5FE1}|BaiTapNhom.csproj|solutionrelative:capnhatthongtinmathang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{42A3E439-CA0A-49F5-B3E4-72DC46BE5FE1}|BaiTapNhom.csproj|C:\\Users\\phanb\\OneDrive\\M\u00E1y t\u00EDnh\\UnRar\\BaiTapNhom\\BaiTapNhom\\capnhatthongtinmathang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{42A3E439-CA0A-49F5-B3E4-72DC46BE5FE1}|BaiTapNhom.csproj|solutionrelative:capnhatthongtinmathang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{42A3E439-CA0A-49F5-B3E4-72DC46BE5FE1}|BaiTapNhom.csproj|C:\\Users\\phanb\\OneDrive\\M\u00E1y t\u00EDnh\\UnRar\\BaiTapNhom\\BaiTapNhom\\formdangnhap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{42A3E439-CA0A-49F5-B3E4-72DC46BE5FE1}|BaiTapNhom.csproj|solutionrelative:formdangnhap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ThemMatHang.cs",
+              "DocumentMoniker": "C:\\Users\\phanb\\OneDrive\\M\u00E1y t\u00EDnh\\UnRar\\BaiTapNhom\\BaiTapNhom\\ThemMatHang.cs",
+              "RelativeDocumentMoniker": "ThemMatHang.cs",
+              "ToolTip": "C:\\Users\\phanb\\OneDrive\\M\u00E1y t\u00EDnh\\UnRar\\BaiTapNhom\\BaiTapNhom\\ThemMatHang.cs",
+              "RelativeToolTip": "ThemMatHang.cs",
+              "ViewState": "AgIAACgAAAAAAAAAAAAkwCsAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-02T15:51:40.361Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "ChiTietHoaDon.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\phanb\\OneDrive\\M\u00E1y t\u00EDnh\\UnRar\\BaiTapNhom\\BaiTapNhom\\ChiTietHoaDon.cs",
+              "RelativeDocumentMoniker": "ChiTietHoaDon.cs",
+              "ToolTip": "C:\\Users\\phanb\\OneDrive\\M\u00E1y t\u00EDnh\\UnRar\\BaiTapNhom\\BaiTapNhom\\ChiTietHoaDon.cs [Design]",
+              "RelativeToolTip": "ChiTietHoaDon.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-29T03:37:17.88Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "DanhSachMatHang.cs",
+              "DocumentMoniker": "C:\\Users\\phanb\\OneDrive\\M\u00E1y t\u00EDnh\\UnRar\\BaiTapNhom\\BaiTapNhom\\DanhSachMatHang.cs",
+              "RelativeDocumentMoniker": "DanhSachMatHang.cs",
+              "ToolTip": "C:\\Users\\phanb\\OneDrive\\M\u00E1y t\u00EDnh\\UnRar\\BaiTapNhom\\BaiTapNhom\\DanhSachMatHang.cs",
+              "RelativeToolTip": "DanhSachMatHang.cs",
+              "ViewState": "AgIAAE0AAAAAAAAAAAAkwEAAAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-29T03:31:37.533Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "DanhSachMatHang.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\phanb\\OneDrive\\M\u00E1y t\u00EDnh\\UnRar\\BaiTapNhom\\BaiTapNhom\\DanhSachMatHang.cs",
+              "RelativeDocumentMoniker": "DanhSachMatHang.cs",
+              "ToolTip": "C:\\Users\\phanb\\OneDrive\\M\u00E1y t\u00EDnh\\UnRar\\BaiTapNhom\\BaiTapNhom\\DanhSachMatHang.cs [Design]",
+              "RelativeToolTip": "DanhSachMatHang.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-29T03:31:34.733Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ThemMatHang.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\phanb\\OneDrive\\M\u00E1y t\u00EDnh\\UnRar\\BaiTapNhom\\BaiTapNhom\\ThemMatHang.cs",
+              "RelativeDocumentMoniker": "ThemMatHang.cs",
+              "ToolTip": "C:\\Users\\phanb\\OneDrive\\M\u00E1y t\u00EDnh\\UnRar\\BaiTapNhom\\BaiTapNhom\\ThemMatHang.cs [Design]",
+              "RelativeToolTip": "ThemMatHang.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-29T03:24:48.598Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "HoaDon.cs",
+              "DocumentMoniker": "C:\\Users\\phanb\\OneDrive\\M\u00E1y t\u00EDnh\\UnRar\\BaiTapNhom\\BaiTapNhom\\HoaDon.cs",
+              "RelativeDocumentMoniker": "HoaDon.cs",
+              "ToolTip": "C:\\Users\\phanb\\OneDrive\\M\u00E1y t\u00EDnh\\UnRar\\BaiTapNhom\\BaiTapNhom\\HoaDon.cs",
+              "RelativeToolTip": "HoaDon.cs",
+              "ViewState": "AgIAAKcAAAAAAAAAAAAEwKwAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-29T03:18:29.9Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "HoaDon.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\phanb\\OneDrive\\M\u00E1y t\u00EDnh\\UnRar\\BaiTapNhom\\BaiTapNhom\\HoaDon.cs",
+              "RelativeDocumentMoniker": "HoaDon.cs",
+              "ToolTip": "C:\\Users\\phanb\\OneDrive\\M\u00E1y t\u00EDnh\\UnRar\\BaiTapNhom\\BaiTapNhom\\HoaDon.cs [Design]",
+              "RelativeToolTip": "HoaDon.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-29T03:18:27.114Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "CapNhatThongTinMatHang.cs",
+              "DocumentMoniker": "C:\\Users\\phanb\\OneDrive\\M\u00E1y t\u00EDnh\\UnRar\\BaiTapNhom\\BaiTapNhom\\CapNhatThongTinMatHang.cs",
+              "RelativeDocumentMoniker": "CapNhatThongTinMatHang.cs",
+              "ToolTip": "C:\\Users\\phanb\\OneDrive\\M\u00E1y t\u00EDnh\\UnRar\\BaiTapNhom\\BaiTapNhom\\CapNhatThongTinMatHang.cs",
+              "RelativeToolTip": "CapNhatThongTinMatHang.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAIA/wBwAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-29T03:14:51.121Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "CapNhatThongTinMatHang.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\phanb\\OneDrive\\M\u00E1y t\u00EDnh\\UnRar\\BaiTapNhom\\BaiTapNhom\\CapNhatThongTinMatHang.cs",
+              "RelativeDocumentMoniker": "CapNhatThongTinMatHang.cs",
+              "ToolTip": "C:\\Users\\phanb\\OneDrive\\M\u00E1y t\u00EDnh\\UnRar\\BaiTapNhom\\BaiTapNhom\\CapNhatThongTinMatHang.cs [Design]",
+              "RelativeToolTip": "CapNhatThongTinMatHang.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-29T03:14:49.208Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "FormDangNhap.cs",
+              "DocumentMoniker": "C:\\Users\\phanb\\OneDrive\\M\u00E1y t\u00EDnh\\UnRar\\BaiTapNhom\\BaiTapNhom\\FormDangNhap.cs",
+              "RelativeDocumentMoniker": "FormDangNhap.cs",
+              "ToolTip": "C:\\Users\\phanb\\OneDrive\\M\u00E1y t\u00EDnh\\UnRar\\BaiTapNhom\\BaiTapNhom\\FormDangNhap.cs",
+              "RelativeToolTip": "FormDangNhap.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAzwB0AAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-29T02:57:23.593Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "FormDangNhap.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\phanb\\OneDrive\\M\u00E1y t\u00EDnh\\UnRar\\BaiTapNhom\\BaiTapNhom\\FormDangNhap.cs",
+              "RelativeDocumentMoniker": "FormDangNhap.cs",
+              "ToolTip": "C:\\Users\\phanb\\OneDrive\\M\u00E1y t\u00EDnh\\UnRar\\BaiTapNhom\\BaiTapNhom\\FormDangNhap.cs [Design]",
+              "RelativeToolTip": "FormDangNhap.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-29T02:57:21.978Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "FormChuongTrinh.cs",
+              "DocumentMoniker": "C:\\Users\\phanb\\OneDrive\\M\u00E1y t\u00EDnh\\UnRar\\BaiTapNhom\\BaiTapNhom\\FormChuongTrinh.cs",
+              "RelativeDocumentMoniker": "FormChuongTrinh.cs",
+              "ToolTip": "C:\\Users\\phanb\\OneDrive\\M\u00E1y t\u00EDnh\\UnRar\\BaiTapNhom\\BaiTapNhom\\FormChuongTrinh.cs",
+              "RelativeToolTip": "FormChuongTrinh.cs",
+              "ViewState": "AgIAAD4AAAAAAAAAAAAuwMMAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-29T02:27:51.719Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "FormChuongTrinh.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\phanb\\OneDrive\\M\u00E1y t\u00EDnh\\UnRar\\BaiTapNhom\\BaiTapNhom\\FormChuongTrinh.cs",
+              "RelativeDocumentMoniker": "FormChuongTrinh.cs",
+              "ToolTip": "C:\\Users\\phanb\\OneDrive\\M\u00E1y t\u00EDnh\\UnRar\\BaiTapNhom\\BaiTapNhom\\FormChuongTrinh.cs [Design]",
+              "RelativeToolTip": "FormChuongTrinh.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-29T02:27:48.576Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "NhomMatHang.cs",
+              "DocumentMoniker": "C:\\Users\\phanb\\OneDrive\\M\u00E1y t\u00EDnh\\UnRar\\BaiTapNhom\\BaiTapNhom\\NhomMatHang.cs",
+              "RelativeDocumentMoniker": "NhomMatHang.cs",
+              "ToolTip": "C:\\Users\\phanb\\OneDrive\\M\u00E1y t\u00EDnh\\UnRar\\BaiTapNhom\\BaiTapNhom\\NhomMatHang.cs",
+              "RelativeToolTip": "NhomMatHang.cs",
+              "ViewState": "AgIAAIAAAAAAAAAAAAAgwGoAAABFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-29T01:42:55.349Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "NhomMatHang.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\phanb\\OneDrive\\M\u00E1y t\u00EDnh\\UnRar\\BaiTapNhom\\BaiTapNhom\\NhomMatHang.cs",
+              "RelativeDocumentMoniker": "NhomMatHang.cs",
+              "ToolTip": "C:\\Users\\phanb\\OneDrive\\M\u00E1y t\u00EDnh\\UnRar\\BaiTapNhom\\BaiTapNhom\\NhomMatHang.cs [Design]",
+              "RelativeToolTip": "NhomMatHang.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-29T01:42:54.02Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "QuanLyKhachHang.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\phanb\\OneDrive\\M\u00E1y t\u00EDnh\\UnRar\\BaiTapNhom\\BaiTapNhom\\QuanLyKhachHang.cs",
+              "RelativeDocumentMoniker": "QuanLyKhachHang.cs",
+              "ToolTip": "C:\\Users\\phanb\\OneDrive\\M\u00E1y t\u00EDnh\\UnRar\\BaiTapNhom\\BaiTapNhom\\QuanLyKhachHang.cs [Design]",
+              "RelativeToolTip": "QuanLyKhachHang.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-29T01:36:08.925Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "QuanLyKhachHang.cs",
+              "DocumentMoniker": "C:\\Users\\phanb\\OneDrive\\M\u00E1y t\u00EDnh\\UnRar\\BaiTapNhom\\BaiTapNhom\\QuanLyKhachHang.cs",
+              "RelativeDocumentMoniker": "QuanLyKhachHang.cs",
+              "ToolTip": "C:\\Users\\phanb\\OneDrive\\M\u00E1y t\u00EDnh\\UnRar\\BaiTapNhom\\BaiTapNhom\\QuanLyKhachHang.cs",
+              "RelativeToolTip": "QuanLyKhachHang.cs",
+              "ViewState": "AgIAAFAAAAAAAAAAAAAQwGEAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-28T13:53:02.795Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

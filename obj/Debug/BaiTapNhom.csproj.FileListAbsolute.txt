@@ -1,0 +1,33 @@
+C:\Users\asus\source\repos\BaiTapNhom\bin\Debug\BaiTapNhom.exe.config
+C:\Users\asus\source\repos\BaiTapNhom\bin\Debug\BaiTapNhom.exe
+C:\Users\asus\source\repos\BaiTapNhom\bin\Debug\BaiTapNhom.pdb
+C:\Users\asus\source\repos\BaiTapNhom\obj\Debug\BaiTapNhom.csproj.AssemblyReference.cache
+C:\Users\asus\source\repos\BaiTapNhom\obj\Debug\BaiTapNhom.FormDangNhap.resources
+C:\Users\asus\source\repos\BaiTapNhom\obj\Debug\BaiTapNhom.Properties.Resources.resources
+C:\Users\asus\source\repos\BaiTapNhom\obj\Debug\BaiTapNhom.csproj.GenerateResource.cache
+C:\Users\asus\source\repos\BaiTapNhom\obj\Debug\BaiTapNhom.csproj.CoreCompileInputs.cache
+C:\Users\asus\source\repos\BaiTapNhom\obj\Debug\BaiTapNhom.exe
+C:\Users\asus\source\repos\BaiTapNhom\obj\Debug\BaiTapNhom.pdb
+C:\Users\asus\source\repos\BaiTapNhom\obj\Debug\BaiTapNhom.FormChuongTrinh.resources
+C:\Users\asus\source\repos\BaiTapNhom\obj\Debug\BaiTapNhom.AddSanPham.resources
+C:\Users\asus\source\repos\BaiTapNhom\obj\Debug\BaiTapNhom.DanhSachMatHang.resources
+C:\Users\asus\source\repos\BaiTapNhom\obj\Debug\BaiTapNhom.NhomMatHang.resources
+C:\Users\phanb\OneDrive\Máy tính\UnRar\BaiTapNhom\BaiTapNhom\bin\Debug\BaiTapNhom.exe.config
+C:\Users\phanb\OneDrive\Máy tính\UnRar\BaiTapNhom\BaiTapNhom\bin\Debug\BaiTapNhom.exe
+C:\Users\phanb\OneDrive\Máy tính\UnRar\BaiTapNhom\BaiTapNhom\bin\Debug\BaiTapNhom.pdb
+C:\Users\phanb\OneDrive\Máy tính\UnRar\BaiTapNhom\BaiTapNhom\obj\Debug\BaiTapNhom.csproj.AssemblyReference.cache
+C:\Users\phanb\OneDrive\Máy tính\UnRar\BaiTapNhom\BaiTapNhom\obj\Debug\BaiTapNhom.AddSanPham.resources
+C:\Users\phanb\OneDrive\Máy tính\UnRar\BaiTapNhom\BaiTapNhom\obj\Debug\BaiTapNhom.CapNhatThongTinMatHang.resources
+C:\Users\phanb\OneDrive\Máy tính\UnRar\BaiTapNhom\BaiTapNhom\obj\Debug\BaiTapNhom.DanhSachMatHang.resources
+C:\Users\phanb\OneDrive\Máy tính\UnRar\BaiTapNhom\BaiTapNhom\obj\Debug\BaiTapNhom.FormChuongTrinh.resources
+C:\Users\phanb\OneDrive\Máy tính\UnRar\BaiTapNhom\BaiTapNhom\obj\Debug\BaiTapNhom.FormDangNhap.resources
+C:\Users\phanb\OneDrive\Máy tính\UnRar\BaiTapNhom\BaiTapNhom\obj\Debug\BaiTapNhom.NhomMatHang.resources
+C:\Users\phanb\OneDrive\Máy tính\UnRar\BaiTapNhom\BaiTapNhom\obj\Debug\BaiTapNhom.Properties.Resources.resources
+C:\Users\phanb\OneDrive\Máy tính\UnRar\BaiTapNhom\BaiTapNhom\obj\Debug\BaiTapNhom.QuanLyKhachHang.resources
+C:\Users\phanb\OneDrive\Máy tính\UnRar\BaiTapNhom\BaiTapNhom\obj\Debug\BaiTapNhom.ThemMatHang.resources
+C:\Users\phanb\OneDrive\Máy tính\UnRar\BaiTapNhom\BaiTapNhom\obj\Debug\BaiTapNhom.csproj.GenerateResource.cache
+C:\Users\phanb\OneDrive\Máy tính\UnRar\BaiTapNhom\BaiTapNhom\obj\Debug\BaiTapNhom.csproj.CoreCompileInputs.cache
+C:\Users\phanb\OneDrive\Máy tính\UnRar\BaiTapNhom\BaiTapNhom\obj\Debug\BaiTapNhom.exe
+C:\Users\phanb\OneDrive\Máy tính\UnRar\BaiTapNhom\BaiTapNhom\obj\Debug\BaiTapNhom.pdb
+C:\Users\phanb\OneDrive\Máy tính\UnRar\BaiTapNhom\BaiTapNhom\obj\Debug\BaiTapNhom.FromChiTietHoaDon.resources
+C:\Users\phanb\OneDrive\Máy tính\UnRar\BaiTapNhom\BaiTapNhom\obj\Debug\BaiTapNhom.HoaDon.resources
