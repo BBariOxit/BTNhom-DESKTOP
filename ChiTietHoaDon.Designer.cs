@@ -413,7 +413,7 @@
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(9F, 20F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(1548, 804);
+            this.ClientSize = new System.Drawing.Size(1507, 813);
             this.Controls.Add(this.dgvDonHang);
             this.Controls.Add(this.btnLuu);
             this.Controls.Add(this.btnHuy);

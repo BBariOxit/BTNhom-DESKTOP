@@ -17,17 +17,17 @@ namespace BaiTapNhom
             InitializeComponent();
         }
 
-        private void btnBrowser_Click(object sender, EventArgs e)
-        {
+        //private void btnBrowser_Click(object sender, EventArgs e)
+        //{
 
-            OpenFileDialog fileImage = new OpenFileDialog();
-            if (fileImage.ShowDialog() == DialogResult.OK)
-            {
-                ptbShoe.Image = new Bitmap(fileImage.FileName);
-                txtImg.Text = fileImage.FileName;
-                ptbShoe.BackgroundImageLayout = ImageLayout.Stretch;
-            }
-        }
+        //    OpenFileDialog fileImage = new OpenFileDialog();
+        //    if (fileImage.ShowDialog() == DialogResult.OK)
+        //    {
+        //        ptbShoe.Image = new Bitmap(fileImage.FileName);
+        //        txtImg.Text = fileImage.FileName;
+        //        ptbShoe.BackgroundImageLayout = ImageLayout.Stretch;
+        //    }
+        //}
 
         private void btnLuuVaThoat_Click(object sender, EventArgs e)
         {

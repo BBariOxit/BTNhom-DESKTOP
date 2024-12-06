@@ -49,6 +49,7 @@ namespace BaiTapNhom
         {
             ThemMatHang form = new ThemMatHang();
             form.Show();
+          
         }
 
         private void DanhSachMatHang_Load(object sender, EventArgs e)
@@ -88,6 +89,11 @@ namespace BaiTapNhom
             {
                 conn.Close();
             }
+        }
+
+        private void btnLoad_Click(object sender, EventArgs e)
+        {
+            LoadDanhSachSP();
         }
     }
 }

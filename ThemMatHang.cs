@@ -23,16 +23,16 @@ namespace BaiTapNhom
             this.Close();
         }
 
-        private void btnBrowser_Click(object sender, EventArgs e)
-        {
-            OpenFileDialog fileImage = new OpenFileDialog();
-            if (fileImage.ShowDialog() == DialogResult.OK)
-            {
-                ptbShoe.Image = new Bitmap(fileImage.FileName);
-                txtImg.Text = fileImage.FileName;
-                ptbShoe.BackgroundImageLayout = ImageLayout.Stretch;
-            }
-        }
+        //private void btnBrowser_Click(object sender, EventArgs e)
+        //{
+        //    OpenFileDialog fileImage = new OpenFileDialog();
+        //    if (fileImage.ShowDialog() == DialogResult.OK)
+        //    {
+        //        ptbShoe.Image = new Bitmap(fileImage.FileName);
+        //        txtImg.Text = fileImage.FileName;
+        //        ptbShoe.BackgroundImageLayout = ImageLayout.Stretch;
+        //    }
+        //}
 
         private void ptbShoe_Click(object sender, EventArgs e)
         {
@@ -59,7 +59,7 @@ namespace BaiTapNhom
             {
                 SqlCommand cmd = conn.CreateCommand();
 
-                // Câu lệnh SQL để thêm dữ liệu vào bảng NhaCC
+                
                 cmd.CommandText = "INSERT INTO MatHang (MaLoai, TenMatHang, IDMauSize, DonGia, SoLuong) VALUES (@MaLoai,@TenMatHang,@IDMauSize,@DonGia,@SoLuong)";
                 cmd.Parameters.AddWithValue("@MaLoai", maLoai);
                 cmd.Parameters.AddWithValue("@TenMatHang", matHang);
@@ -68,7 +68,7 @@ namespace BaiTapNhom
                 cmd.Parameters.AddWithValue("@SoLuong", soLuong);
                 try
                 {
-                    conn.Open(); // Mở kết nối
+                    conn.Open(); 
                     int rowsAffected = cmd.ExecuteNonQuery(); // Thực thi câu lệnh SQL
 
                     if (rowsAffected > 0)
@@ -81,6 +81,7 @@ namespace BaiTapNhom
                         txtMauSize.Clear();
                         txtGiaBan.Clear();
                         txtSL.Clear();
+                        this.Close();
                     }
                     else
                     {
@@ -93,6 +94,7 @@ namespace BaiTapNhom
                     MessageBox.Show($"Lỗi khi thêm nhà cung cấp: {ex.Message}", "Lỗi", MessageBoxButtons.OK, MessageBoxIcon.Error);
                 }
             }
+            
 
         }
 

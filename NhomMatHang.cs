@@ -50,7 +50,7 @@ namespace BaiTapNhom
             {
                 SqlCommand cmd = conn.CreateCommand();
 
-                // Câu lệnh SQL để thêm dữ liệu vào bảng NhaCC
+               
                 cmd.CommandText = "INSERT INTO LoaiGiayDep (MaLoai,TenLoaiHang,GhiChu,Enable) VALUES (@MaLoai,@TenLoaiHang,@GhiChu,@enable)";
                 cmd.Parameters.AddWithValue("@MaLoai", maLoai);
                 cmd.Parameters.AddWithValue("@TenLoaiHang", tenNhomMatHang);
@@ -85,7 +85,7 @@ namespace BaiTapNhom
                 }
                 catch (Exception ex)
                 {
-                    // Hiển thị thông báo lỗi nếu xảy ra ngoại lệ
+                    
                     MessageBox.Show($"Lỗi khi thêm nhà cung cấp: {ex.Message}", "Lỗi", MessageBoxButtons.OK, MessageBoxIcon.Error);
                 }
             }

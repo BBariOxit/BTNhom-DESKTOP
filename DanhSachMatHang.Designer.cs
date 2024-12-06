@@ -37,6 +37,7 @@
             this.txtTimKiem = new System.Windows.Forms.TextBox();
             this.label1 = new System.Windows.Forms.Label();
             this.button3 = new System.Windows.Forms.Button();
+            this.btnLoad = new System.Windows.Forms.Button();
             this.groupBox2.SuspendLayout();
             ((System.ComponentModel.ISupportInitialize)(this.dgvDanhSach)).BeginInit();
             this.groupBox1.SuspendLayout();
@@ -68,6 +69,7 @@
             // 
             // groupBox1
             // 
+            this.groupBox1.Controls.Add(this.btnLoad);
             this.groupBox1.Controls.Add(this.button2);
             this.groupBox1.Controls.Add(this.cmbNhomMatHang);
             this.groupBox1.Controls.Add(this.label2);
@@ -85,10 +87,10 @@
             // 
             // button2
             // 
-            this.button2.Location = new System.Drawing.Point(878, 28);
+            this.button2.Location = new System.Drawing.Point(842, 30);
             this.button2.Margin = new System.Windows.Forms.Padding(3, 4, 3, 4);
             this.button2.Name = "button2";
-            this.button2.Size = new System.Drawing.Size(242, 39);
+            this.button2.Size = new System.Drawing.Size(183, 36);
             this.button2.TabIndex = 3;
             this.button2.Text = "Thêm mặt hàng";
             this.button2.UseVisualStyleBackColor = true;
@@ -147,6 +149,16 @@
             this.button3.UseVisualStyleBackColor = true;
             this.button3.Click += new System.EventHandler(this.button3_Click_1);
             // 
+            // btnLoad
+            // 
+            this.btnLoad.Location = new System.Drawing.Point(1044, 32);
+            this.btnLoad.Name = "btnLoad";
+            this.btnLoad.Size = new System.Drawing.Size(127, 34);
+            this.btnLoad.TabIndex = 4;
+            this.btnLoad.Text = "Load";
+            this.btnLoad.UseVisualStyleBackColor = true;
+            this.btnLoad.Click += new System.EventHandler(this.btnLoad_Click);
+            // 
             // DanhSachMatHang
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(9F, 20F);
@@ -178,5 +190,6 @@
         private System.Windows.Forms.TextBox txtTimKiem;
         private System.Windows.Forms.Label label1;
         private System.Windows.Forms.Button button3;
+        private System.Windows.Forms.Button btnLoad;
     }
 }
